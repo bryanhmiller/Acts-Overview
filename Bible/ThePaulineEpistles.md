@@ -6,7 +6,8 @@ Romans | Corinth | 57 A.D. | Paul had not been to Rome at this point
 I Corinthians (2nd letter) | Ephesus | 55 A.D. | Actually not Paul's first letter to them (I Corinthians 5: 9-11).
 II Corinthians (4th letter) | Philippi? | late 56 A.D. | Paul had written a sorrowful letter to after the I Corinthians letter (II Corinthians 2: 1-11, 7: 8).
 Galatians | Antioch | 49 A.D. | Written just prior to the Jerusalem council
-Ephesians | Rome | 60-61 A.D. | Written during Paul's first imprisonment in Rome
+Ephesians | Rome | 60 or 61 A.D. | Written during Paul's first imprisonment in Rome
+Philippians | Rome | 61 or 62 A.D. | Paul likely wrote Philippians last, of the prison epistles
 
 ## Letters in Chronolgical Order
 
@@ -16,7 +17,8 @@ Galatians | Antioch | 49 A.D.
 I Corinthians | Ephesus | 55 A.D. 
 II Corinthians | Ephesus | 56 A.D. 
 Romans | Corinth | 57 A.D.
-Ephesians | Rome | 60-61 A.D.
+Ephesians | Rome | 60 or 61 A.D.
+Philippians | Rome | 61 or 62 A.D.
 
 ## Letters Contents
 
