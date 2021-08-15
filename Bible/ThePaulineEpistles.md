@@ -8,14 +8,21 @@ II Corinthians (4th letter) | Philippi? | late 56 A.D. | Paul had written a sorr
 Galatians | Antioch | 49 A.D. | Written just prior to the Jerusalem council
 Ephesians | Rome | 60 or 61 A.D. | Written during Paul's first imprisonment in Rome
 Colossians | Rome | 60 or 61 A.D. | Written during Paul's first imprisonment in Rome. Like Romans, this letter was written with out Paul having been there before
-Philemon | Rome | 60 or 61 A.D. | This letter is unique in all of Paul's writings
 Philippians | Rome | 61 or 62 A.D. | Paul likely wrote Philippians last, of the prison epistles
+Philemon | Rome | 60 or 61 A.D. | This letter is unique in all of Paul's writings
+I Thessalonians | Corinth | 51 A.D. | Paul's letter to a newly established church
+II Thessalonians | Corinth | 51 A.D. | Paul's letter to a newly established church
+I Timothy | Macedonia | 63 A.D.
+II Timothy | Rome | 67 A.D.
+Titus | Nicopolis | 63 A.D.
 
 ## Letters in Chronolgical Order
 
 Letter To | Written From | Time 
 ---|---|---
 Galatians | Antioch | 49 A.D.
+I Thessalonians | Corinth | 51 A.D.
+II Thessalonians | Corinth | 51 A.D.
 I Corinthians | Ephesus | 55 A.D. 
 II Corinthians | Ephesus | 56 A.D. 
 Romans | Corinth | 57 A.D.
@@ -23,6 +30,9 @@ Ephesians | Rome | 60 or 61 A.D.
 Colossians | Rome | 60 or 61 A.D.
 Philemon | Rome | 60 or 61 A.D.
 Philippians | Rome | 61 or 62 A.D.
+I Timothy | Macedonia | 63 A.D.
+Titus | Nicopolis | 63 A.D.
+II Timothy | Rome | 67 A.D.
 
 ## Letters Contents
 
@@ -35,10 +45,6 @@ Galatians | <ul><li>The Galatians fell away so quickly from the gospel of grace 
 Ephesians | <ul><li>Paul spent the first three chapters of the letter discussing God’s creation of a holy community by His gift of grace in the death and resurrection of Jesus Christ</li><li>So after laying out profound theological truths in the first half of the book, Paul made his purpose clear: he expected that this community of faith would walk in accordance with its heavenly calling (Ephesians 4:1)</li></ul>
 Philippians | <ul><li>Paul wrote to express his appreciation and affection for the Philippian believers</li><li>More than any other church, the believers in Philippi offered Paul material support for his ministry (2 Corinthians 8:11; Philippians 4:15–18)</li><li>Paul knew, as did the Philippians, that true joy comes only through humble faith in the saving work of Jesus Christ, joining ourselves in harmony with His followers, and serving others in the name of Christ</li></ul>
 Colossians | <ul><li>The church at Colossae was under attack from false teachers who were denigrating the deity of Jesus; they were teaching that He was not actually God</li><li>Paul presented Christ as the center of the universe, not only as the active Creator but also as the recipient of creation—in His taking on of human flesh</li><li>Christ was and is the visible image of the invisible God, containing within Himself the fullness of Deity (Colossians 2:9)</li><li>This proper view of Christ served as the antidote for the Colossian heresy as well as a building block for Christian life and doctrine both then and now</li></ul>
-Philemon |
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
+I Thessalonians | <ul><li>Upon leaving Thessalonica under duress, Paul, Silas, and Timothy traveled to Athens by way of Berea</li><li>Impressed by the faithfulness of the Thessalonians in the face of persecution, Paul wrote to encourage the Christians in that community with the goal that they would continue to grow in godliness</li><li>The focus on Christ’s return provides water for the thirsty soul today, encouraging growth in maturity by providing hope in the midst of suffering or uncertainty</li></ul>
+II Thessalonians |
+Philemon | <ul><li>A slave named Onesimus had escaped from his owner</li><li>Onesimus, either by accident or by his own design, came in contact with Paul, who promptly led the runaway slave to faith in Jesus Christ</li><li>He wanted Philemon to forgive Onesimus, to accept the slave as a brother in Christ, and to consider sending Onesimus back to Paul, as the apostle found him useful in God’s service (1:11–14)</li><li>His letter to Philemon presents in full color the beautiful and majestic transition from slavery to kinship that comes as a result of Christian love and forgiveness</li></ul>
